@@ -1,7 +1,7 @@
 .. index::
    single: Forms
 
-Forms
+表单
 =====
 
 Dealing with HTML forms is one of the most common - and challenging - tasks for
